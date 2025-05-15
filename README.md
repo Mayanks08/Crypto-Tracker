@@ -40,6 +40,7 @@ Also Putted Costume Icon on App
 
 
 <h3>📸 Screenshots</h3>
+
 ![Screenshot 2025-05-13 220724](https://github.com/user-attachments/assets/a074f502-7685-46c1-8dac-193c9aedd60f)
 ![Screenshot 2025-05-13 221331](https://github.com/user-attachments/assets/18afcca4-5bfb-4093-afe5-d57d8cdc76a7)
 ![Screenshot 2025-05-13 221501](https://github.com/user-attachments/assets/3a3ea7d6-38a3-4ae8-828c-91b6e7dabe39)
@@ -95,4 +96,5 @@ CryptoTrackerApp/
 ```
 
 <h2>App Icon</h2>
+
 ![icon](https://github.com/user-attachments/assets/814d4235-776b-437c-b2c8-a74d2901dadd)
