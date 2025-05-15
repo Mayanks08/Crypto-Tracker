@@ -3,7 +3,8 @@ A React Native Android app to track real-time cryptocurrency data using the Coin
 Built with Expo and Android Studio, the app provides charts, historical data, and lets users select currencies dynamically using a picker.
 Also Putted Costume Icon on App
 
-🚀 Features
+🚀 Features]
+
 📊 Real-time price tracking with CoinGecko API
 
 📈 Interactive charts using chart.js
